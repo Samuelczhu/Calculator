@@ -12,3 +12,17 @@ C:\Users\szhu\Desktop\Calculator\Calculator\obj\Release\Calculator.vbproj.CopyCo
 C:\Users\szhu\Desktop\Calculator\Calculator\obj\Release\Calculator.exe
 C:\Users\szhu\Desktop\Calculator\Calculator\obj\Release\Calculator.xml
 C:\Users\szhu\Desktop\Calculator\Calculator\obj\Release\Calculator.pdb
+C:\Users\ASUS\Desktop\Calculator\Calculator\bin\Release\Calculator.exe.config
+C:\Users\ASUS\Desktop\Calculator\Calculator\bin\Release\Calculator.exe
+C:\Users\ASUS\Desktop\Calculator\Calculator\bin\Release\Calculator.pdb
+C:\Users\ASUS\Desktop\Calculator\Calculator\bin\Release\Calculator.xml
+C:\Users\ASUS\Desktop\Calculator\Calculator\bin\Release\MathParser.org-mXparser.dll
+C:\Users\ASUS\Desktop\Calculator\Calculator\obj\Release\Calculator.vbprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Calculator\Calculator\obj\Release\Calculator.CalculatorForm.resources
+C:\Users\ASUS\Desktop\Calculator\Calculator\obj\Release\Calculator.Resources.resources
+C:\Users\ASUS\Desktop\Calculator\Calculator\obj\Release\Calculator.vbproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Calculator\Calculator\obj\Release\Calculator.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Calculator\Calculator\obj\Release\Calculator.vbproj.CopyComplete
+C:\Users\ASUS\Desktop\Calculator\Calculator\obj\Release\Calculator.exe
+C:\Users\ASUS\Desktop\Calculator\Calculator\obj\Release\Calculator.xml
+C:\Users\ASUS\Desktop\Calculator\Calculator\obj\Release\Calculator.pdb
